@@ -1,5 +1,7 @@
 ### Hi there I'm Madhura👋
 
+📫 How to reach me: LinkedIn: https://www.linkedin.com/in/madhura-tatte-b01a75246 , Gmail: madhuratatte95@gmail.com
+
 <!--
 **MadhuraTatte/MadhuraTatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
