@@ -2,6 +2,7 @@
 
 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/madhura-tatte-b01a75246 , Gmail: madhuratatte95@gmail.com
      
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhuraTatte&theme=radical)
 
 <!--
 **MadhuraTatte/MadhuraTatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
