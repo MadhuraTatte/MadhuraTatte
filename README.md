@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/darshan-bhandwalkar-499557257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Darshan Bhandwalkar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/darshan-bhandwalkar-499557257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhura Tatte" height="30" width="40" /></a>
 </p>
 
 
@@ -33,10 +33,10 @@
 <div>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhandwalkardarshan&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhandwalkardarshan&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhandwalkardarshan&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhandwalkardarshan&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhandwalkardarshan&theme=github_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadhuraTatte&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MadhuraTatte&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MadhuraTatte&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MadhuraTatte&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MadhuraTatte&theme=github_dark&utcOffset=8">
 </p>
 </div>
