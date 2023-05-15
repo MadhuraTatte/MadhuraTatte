@@ -13,11 +13,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhuraTatte&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://bhandwalkardarshan.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio]([(https://madhuratatte.github.io/)])
 
-- 📫 How to reach me bhandwalkardarshan@gmail.com
+- 📫 How to reach me madhuratatte95@gmail.com
 
-- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/18CjRi-LWK21e-5Pr4quF87_DtlaGLKGc/view?usp=share_link)
+- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1-KTfPu19XzjYrL2A4Bp50yyXGFHHi_SC/view)
 
 - ⚡ Fun fact Can produce best ot of waste
 
