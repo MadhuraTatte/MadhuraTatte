@@ -11,7 +11,7 @@
 
 <img src="https://static.wixstatic.com/media/191815_5d9d3ff1ad894e96a2f0a86681563555~mv2.gif" width="350px" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhandwalkardarshan&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhuraTatte&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bhandwalkardarshan.github.io/)
 
