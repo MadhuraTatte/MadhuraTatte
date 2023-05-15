@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhuraTatte&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio]([(https://madhuratatte.github.io/)])
+- 👨‍💻 All of my projects are available at [Portfolio](https://madhuratatte.github.io/)
 
 - 📫 How to reach me madhuratatte95@gmail.com
 
